@@ -66,5 +66,5 @@ npm run build
 
 ## 👨‍💻 Author
 
-**Abdul Ahad**
+**Hunzila Bin Naseem**
 
