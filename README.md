@@ -42,7 +42,7 @@ The workflow (`.github/workflows/deploy.yml`) is triggered:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/AbdulAhad390/Multi-Branch-Deploy.git
+git clone https://github.com/HunzilaNaseem/Multi-Branch-Deploy.git
 cd Multi-Branch-Deploy
 ````
 
